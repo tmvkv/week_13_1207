@@ -1,0 +1,28 @@
+.bg-img{background-image : url("../img/fabric.png");
+background-size: cover;
+background-position : 50% 50%;
+position :absolute;
+top:20;
+bottom: 20;
+left: 400;
+right: 20;
+z-index: 0;
+}
+
+.logo {
+
+width : 20px;
+position :absolute;
+left: 20px;
+top: 50px;
+z-index: 1;
+}
+
+.info {
+	width: 50px;
+	position : absolute;
+	left: 5px;
+	bottom: 5px;
+	z-index: 1
+}
+
